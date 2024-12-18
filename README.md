@@ -4,13 +4,15 @@
 ## Портфолио
 
 ### Примеры проектов автоматизации тестирования
+* [Автоматизация тестирования веб-приложения "банк" с использованием Selenium GRID, Allure и подхода Page Object Model](https://github.com/denkho/selenium_test_banking_project/)
+* [Автоматизация тестирования веб-приложения "Каталог игр" (см. Задание 2) для стажировки в Авито](https://gitverse.ru/den_kho/tech-internship)
 * [Проект автоматизации тестирования для веб-приложения https://www.saucedemo.com/ на языке программирования Python с использованием фреймворков PyTest, Selenium и подхода PageObjectModel](https://gitverse.ru/den_kho/qa_project_selenium)
 * [Тестирование Web-приложения с использованием стиля PageObject](https://github.com/denkho/qa_stepik_selenium_final_project)
 * Выпускной совместный проект RedRoverSchool по автоматизации тестирования интернет-магазина (https://magento.softwaretestingboard.com/):
   * используемые технологии Python, Selene, PyTest, GitLab, Allure;
   * проект по методологии KANBAN в Trello;
   * подготовка тест-кейсов на основе пользовательских историй (user story);- автоматизация тест-кейсов.
-  * Ссылка на проект - [https://github.com/RedRoverSchool/LumaProjectPython_2024_spring/]( https://github.com/RedRoverSchool/LumaProjectPython_2024_spring/)
+  * Ссылка на проект - [https://github.com/RedRoverSchool/LumaProjectPython_2024_spring/](https://github.com/RedRoverSchool/LumaProjectPython_2024_spring/)
 
 ### Примеры оформления тестовой документации
 * [Чек-лист для тестирования десктопного приложения Master PDF Editor](https://disk.yandex.ru/i/3pG4z8zNWDDjug)
